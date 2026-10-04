@@ -37,8 +37,10 @@ Créer un jeu de combat fun et jouable, avec une ambiance inspirée des jeux de 
 
 ## 👥 Équipe
 
-Projet réalisé par un groupe de 4 personnes.
-
----
+Projet réalisé par un groupe de 4 personnes :
+- [@nassimjmh](https://github.com/nassimjmh)
+- Autre membre
+- Autre membre
+- Autre membre
 
 FatalFighter est avant tout un projet de challenge technique, créatif et pédagogique, pensé pour être fini dans un délai très court tout en gardant un gameplay agréable et jouable.
